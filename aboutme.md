@@ -7,7 +7,7 @@ title: About me
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 100%;"
+           width: 20%;"
     src="Hongyun_Deng.png" 
     alt="Our logo">
 </img>
