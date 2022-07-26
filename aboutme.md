@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![photo](Hongyun_Deng.png)
+#emsp;#emsp;#emsp;#emsp;#emsp;![photo](Hongyun_Deng.png)
 
 Name: Hongyun Deng<br>
 Gender: Male<br>
