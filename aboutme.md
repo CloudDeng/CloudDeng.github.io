@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![Photo](Hongyun_Deng.jpg =400x300)
+![Photo](/Hongyun_Deng.jpg =400x300)
 <br>Name: Hongyun Deng<br>
 Gender: Male<br>
 Date of Birth: 13/04/1998<br>
