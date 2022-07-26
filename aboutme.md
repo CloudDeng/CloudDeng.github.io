@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![Photo](Hongyun_Deng.jpg#pic_center)
+![Photo](/Hongyun_Deng.jpg#pic_center)
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
