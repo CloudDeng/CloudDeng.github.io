@@ -19,6 +19,11 @@ Shanghai Jiao Tong University  B. E. Electronic Engineering
 - Graduate Teaching Assistant, Shanghai Jiao Tong University (09/2016 – 06/2020)
 - Undergraduate Research Assistant, Shanghai Jiao Tong University (03/2018 – 06/2020)
 
+# Awards and Scholarships
+- IEEE Antennas and Propagation Society Fellowship, IEEE Antennas and Propagation Society (2022, Application)
+- Ceyear Scholarship, Ceyear Technologies Co., Ltd, China (2022)
+- Academic Scholarship, Shanghai Jiao Tong University, China (2020-2021)
+
 # Pulications
 ### Jounal
 - **H. Deng**, G. Xiao and G. Liu, "An Efficient Method for Calculating the Doppler Spectrum of an Arbitrarily Shaped Object in Uniform Motion," IEEE Trans. on Antennas Propag., 2022, doi: 10.1109/TAP.2022.3191188. (Early Access)<br>
