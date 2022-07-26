@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <p align="center">
-    ![photo](/Hongyun_Deng.png)
+    ![photo](https://github.com/CloudDeng/CloudDeng.github.io/blob/master/Hongyun_Deng.png)
 </p>
 <br>Name: Hongyun Deng<br>
 Gender: Male<br>
