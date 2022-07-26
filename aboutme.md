@@ -12,7 +12,7 @@ Address: 800 Dongchuan Rd, Minhang, Shanghai<br>
 Phone: +86-18217508023<br>
 E-mail: hongyundeng@sjtu.edu.cn<br>
 Skills:
-- Analyze electromagnetic problems with the integral equation method (3 years)
-- Software engineering (FORTRAN, C/C++, MATLAB, Mathematica, 4 years)
-- Scientific Writing and Illustration (MS Office, Latex, Visio, Adobe Illustrator, 3 years) 
-- Badminton, Swimming, Table Tennis, Bamboo Flute
+Analyze electromagnetic problems with the integral equation method (3 years)<br>
+Software engineering (FORTRAN, C/C++, MATLAB, Mathematica, 4 years)<br>
+Scientific Writing and Illustration (MS Office, Latex, Visio, Adobe Illustrator, 3 years) <br>
+Badminton, Swimming, Table Tennis, Bamboo Flute
