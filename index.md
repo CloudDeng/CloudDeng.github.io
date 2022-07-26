@@ -4,9 +4,9 @@ title: Hongyun Deng
 ---
 # Research Interests  
 I am a self-motivated and team-minded master student with 2 years of experience in studying the 
-numerical methods of solving the electromagnetic problems. I am interested in applying different 
-mathematical and physical theories and methods to solve the electromagnetic problems appearing in 
-the microwave technology.
+numerical methods of solving the electromagnetic problems (especially the integral equation method). 
+I am interested in applying different mathematical and physical theories and methods to solve the 
+electromagnetic problems appearing in the microwave technology.
 
 # Education
 **09/2020 – present &emsp; &emsp; Shanghai, China**<br>
