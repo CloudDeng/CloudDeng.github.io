@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &ensp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; 
 ![photo](Hongyun_Deng.png)
 
 Name: Hongyun Deng<br>
