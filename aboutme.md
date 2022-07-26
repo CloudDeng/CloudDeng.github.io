@@ -4,7 +4,7 @@ title: About me
 ---
 
 <img src="Hongyun_Deng.jpg" width = "300" height = "200" alt="Photo" align=center />
-Name: Hongyun Deng<br>
+<br>Name: Hongyun Deng<br>
 Gender: Male<br>
 Date of Birth: 13/04/1998<br>
 Nation: China<br>
