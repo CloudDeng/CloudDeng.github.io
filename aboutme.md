@@ -2,9 +2,11 @@
 layout: page
 title: About me
 ---
-<p align="center">
-    <img src="https://github.com/CloudDeng/CloudDeng.github.io/blob/master/Hongyun_Deng.png">
-</p>
+;<p align="center">
+;    <img src="https://github.com/CloudDeng/CloudDeng.github.io/blob/master/Hongyun_Deng.png">
+;</p>
+
+![photo](Hongyun_Deng.png)
 <br>Name: Hongyun Deng<br>
 Gender: Male<br>
 Date of Birth: 13/04/1998<br>
