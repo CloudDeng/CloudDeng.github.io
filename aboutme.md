@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <p align="center">
-    <img src="https://github.com/CloudDeng/CloudDeng.github.io/blob/master/Hongyun_Deng.png" alt="Material Bread logo">
+    <img src="https://github.com/CloudDeng/CloudDeng.github.io/blob/master/Hongyun_Deng.png">
 </p>
 <br>Name: Hongyun Deng<br>
 Gender: Male<br>
