@@ -3,14 +3,16 @@ layout: page
 title: About me
 ---
 
-![Photo](/Hongyun_Deng.jpg#pic_center)
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<img src="Hongyun_Deng.jpg" width = "300" height = "200" alt="Photo" align=center />
+Name: Hongyun Deng
+Gender: Male
+Date of Birth: 13/04/1998
+Nation: China
+Address: 800 Dongchuan Rd, Minhang, Shanghai
+Phone: +86-18217508023
+E-mail: hongyundeng@sjtu.edu.cn
+Skills:
+- Analyze electromagnetic problems with the integral equation method (3 years)
+- Software engineering (FORTRAN, C/C++, MATLAB, Mathematica, 4 years)
+- Scientific Writing and Illustration (MS Office, Latex, Visio, Adobe Illustrator, 3 years) 
+- Badminton, Swimming, Table Tennis, Bamboo Flute
