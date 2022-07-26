@@ -15,4 +15,4 @@ Skills:<br>
 Analyze electromagnetic problems with the integral equation method (3 years)<br>
 Software engineering (FORTRAN, C/C++, MATLAB, Mathematica, 4 years)<br>
 Scientific Writing and Illustration (MS Office, Latex, Visio, Adobe Illustrator, 3 years) <br>
-Badminton, Swimming, Table Tennis, Bamboo Flute
+Badminton, Swimming, Table Tennis, Bamboo Flute, Calligraphy
