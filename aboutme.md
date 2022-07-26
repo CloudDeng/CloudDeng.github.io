@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <p align="center">
-    Hongyun_Deng.png
+    "Hongyun_Deng.png"
 </p>
 <br>Name: Hongyun Deng<br>
 Gender: Male<br>
