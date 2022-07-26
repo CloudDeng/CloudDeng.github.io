@@ -10,16 +10,8 @@ title: About me
            width: 30%;"
     src="Hongyun_Deng.png" 
     alt="Our logo">
-</img>
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png" 
-    alt="Our logo">
-</img>
+
 
 Name: Hongyun Deng<br>
 Gender: Male<br>
