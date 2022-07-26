@@ -3,13 +3,7 @@ layout: page
 title: About me
 ---
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="./Hongyun_Deng.png" 
-    alt="Our logo">
+<div align=center><img src="./Hongyun_Deng.png"></div>
 
 
 
