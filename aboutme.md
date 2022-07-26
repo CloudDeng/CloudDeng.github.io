@@ -10,7 +10,7 @@ Name: Hongyun Deng<br>
 Gender: Male<br>
 Date of Birth: 13/04/1998<br>
 Nation: China<br>
-Current Affliation: Department of Electronic Engineering, Shanghai Jiao Tong University
+Current Affliation: Department of Electronic Engineering, Shanghai Jiao Tong University<br>
 Address: 800 Dongchuan Rd, Minhang, Shanghai<br>
 Phone: +86-18217508023<br>
 E-mail: hongyundeng@sjtu.edu.cn<br>
