@@ -10,7 +10,7 @@ mathematical and physical theories and methods to solve the electromagnetic prob
 the microwave technology.
 
 # Education
-**09/2020 – present** Shanghai, China<br>
-Shanghai Jiao Tong University  M. E. Electronic Engineering
-**09/2016 – 06/2020**  Shanghai, China<br>
+**09/2020 – present** _Shanghai, China_<br>
+Shanghai Jiao Tong University  M. E. Electronic Engineering<br>
+**09/2016 – 06/2020**  _Shanghai, China_<br>
 Shanghai Jiao Tong University  B. E. Electronic Engineering
