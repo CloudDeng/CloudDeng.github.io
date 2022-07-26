@@ -10,13 +10,13 @@ the microwave technology.
 
 # Education
 **09/2020 – present &emsp; &emsp; Shanghai, China**<br>
-Shanghai Jiao Tong University  M. E. Electronic Engineering<br>
+M. E. Electronic Engineering, Shanghai Jiao Tong University <br>
 **09/2016 – 06/2020 &emsp; &emsp; Shanghai, China**<br>
-Shanghai Jiao Tong University  B. E. Electronic Engineering
+B. E. Electronic Engineering, Shanghai Jiao Tong University
 
 # Research Experiences
 - Graduate Research Assistant, Shanghai Jiao Tong University (09/2020 – present)
-- Graduate Teaching Assistant, Shanghai Jiao Tong University (09/2016 – 06/2020)
+- Graduate Teaching Assistant, Shanghai Jiao Tong University (03/2021 – 09/2021)
 - Undergraduate Research Assistant, Shanghai Jiao Tong University (03/2018 – 06/2020)
 
 # Awards and Scholarships
