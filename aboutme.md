@@ -4,7 +4,7 @@ title: About me
 ---
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; 
-![photo](Hongyun_Deng.png)
+![photo](HongyunDeng.jpg)
 
 **Name**: Hongyun Deng<br>
 **Gender**: Male<br>
