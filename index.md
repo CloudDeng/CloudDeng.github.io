@@ -12,7 +12,7 @@ electromagnetic problems appearing in the microwave technology.
 **09/2020 – present &emsp; &emsp; Shanghai, China**<br>
 M. E. Electronic Engineering, Shanghai Jiao Tong University <br>
 **09/2016 – 06/2020 &emsp; &emsp; Shanghai, China**<br>
-B. S. Applied Mathematics (minor major), Shanghai Jiao Tong University<br>
+B. S. Applied Mathematics, Shanghai Jiao Tong University (minor major)<br>
 **09/2016 – 06/2020 &emsp; &emsp; Shanghai, China**<br>
 B. E. Electronic Engineering, Shanghai Jiao Tong University
 
